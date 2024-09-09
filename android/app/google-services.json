@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75863991374",
+    "project_id": "android-app-fd91f",
+    "storage_bucket": "android-app-fd91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75863991374:android:f460ac3e3c21892e338f1f",
+        "android_client_info": {
+          "package_name": "com.example.invoiceap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_WsbAeF7DKFJzM8eDTeJ4EUj3mMfWII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75863991374:android:71a923cc77b4d3d4338f1f",
+        "android_client_info": {
+          "package_name": "com.example.invoiceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_WsbAeF7DKFJzM8eDTeJ4EUj3mMfWII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
